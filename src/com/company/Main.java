@@ -12,7 +12,7 @@ public class Main {
 
         for (int i = 0; i < s.length(); i++) {
 
-            if (s.charAt(i) == 'A' || s.charAt(i) == 'a' ||
+            if     (s.charAt(i) == 'A' || s.charAt(i) == 'a' ||
                     s.charAt(i) == 'E' || s.charAt(i) == 'e' ||
                     s.charAt(i) == 'I' || s.charAt(i) == 'i' ||
                     s.charAt(i) == 'O' || s.charAt(i) == 'o' ||
